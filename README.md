@@ -1,5 +1,8 @@
 <h1>Hi, I'm Emma! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Peace and Security Professional</a></h1>
 
+<h2> Certificates: </h2>
+
+- [Azure Fundamentals](https://www.credly.com/badges/3a0ce5aa-5a9c-43fe-8048-a8f0652c6f31/public_url)
 
 <h2> Data Analysis and Visualization Projects:</h2>
 
@@ -21,10 +24,6 @@
 - <b>Data Cleaning and Working with Customers</b>
   - [SaferGlobe Arms Control Raport](https://github.com/emmanikkila/)
 
-<h2> Certificates: </h2>
-
-- [Azure Fundamentals](https://www.credly.com/badges/3a0ce5aa-5a9c-43fe-8048-a8f0652c6f31/public_url)
-- Azure Data Fundamentals
 
 <h2> Connect with me:</h2>
 
