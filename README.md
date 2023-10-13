@@ -14,7 +14,7 @@
 - <b>Decision Tree</b>
   - [Estimating Factors Affecting Wine Quality](https://github.com/emmanikkila/)
 - <b>Linear Regression</b>
-  - [Statistical Analysis on WHO Life Expectancy Data](https://github.com/emmanikkila/)
+  - [Statistical Analysis on WHO Life Expectancy Data](https://github.com/emmanikkila/who-life-expectancy)
 
 <h2> Collaboration Projects:</h2>
 
