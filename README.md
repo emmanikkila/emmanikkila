@@ -23,11 +23,10 @@
 
 <h2> Certificates: </h2>
 
-- Azure Fundamentals
+- [Azure Fundamentals](https://www.credly.com/badges/3a0ce5aa-5a9c-43fe-8048-a8f0652c6f31/public_url)
 - Azure Data Fundamentals
 
 <h2> Connect with me:</h2>
-
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
