@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emma! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Peace and Security Professional</a></h1>
+<h1>Hi, I'm Emma! <br/><a href="https://github.com/emmanikkila">Junior Data Analyst</a> and <a href="https://www.linkedin.com/in/emmanikkila">Peace and Security Professional</a></h1>
 
 <h2> Certificates: </h2>
 
@@ -22,7 +22,7 @@
 <h2> Collaboration Projects:</h2>
 
 - <b>Data Cleaning and Working with Customers</b>
-  - [SaferGlobe Arms Control Raport](https://github.com/emmanikkila/)
+  - [SaferGlobe Arms Control Raport](https://github.com/emmanikkila/saferglobe-armscontrol)
 
 
 <h2> Connect with me:</h2>
