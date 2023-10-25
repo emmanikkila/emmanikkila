@@ -7,15 +7,15 @@
 <h2> Data Analysis and Visualization Projects:</h2>
 
 - <b>Python libraries: Pandas, Numpy, Seaborn</b>
-  - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/)
+  - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/titanic)
 - <b>Microsoft Power BI</b>
-  - [Maven Market Business Dashboard](https://github.com/emmanikkila/)
-  - [Adventure Works Business Dashboard](https://github.com/emmanikkila/)
+  - [Maven Market Business Dashboard](https://github.com/emmanikkila/maven-market)
+  - [Adventure Works Business Dashboard](https://github.com/emmanikkila/adventure-works)
 
 <h2> Machine Learning Projects:</h2>
 
 - <b>Decision Tree</b>
-  - [Estimating Factors Affecting Wine Quality](https://github.com/emmanikkila/)
+  - [Estimating Factors Affecting Wine Quality](https://github.com/emmanikkila/wine-quality)
 - <b>Linear Regression</b>
   - [Statistical Analysis on WHO Life Expectancy Data](https://github.com/emmanikkila/who-life-expectancy)
 
@@ -23,11 +23,11 @@
 
 - <b>Public Microsoft Power BI Dashboard</b>
   - [SaferGlobe Arms Control Raport](https://github.com/emmanikkila/saferglobe-armscontrol)
-
+    
 <h2> WebScrapping and API:</h2>
+
 - <b>API</b>
   - [NASA API](https://github.com/emmanikkila/NASA-API)
-
 
 <h2> Connect with me:</h2>
 
