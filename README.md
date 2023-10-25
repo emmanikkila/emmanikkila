@@ -6,7 +6,7 @@
 
 <h2> Data Analysis and Visualization Projects:</h2>
 
-- <b>Python libraries: Pandas, Numpy, Seaborn</b>
+- <b>Python: Pandas, Numpy, Seaborn</b>
   - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/titanic)
 - <b>Microsoft Power BI</b>
   - [Maven Market Business Dashboard](https://github.com/emmanikkila/maven-market)
