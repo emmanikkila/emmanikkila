@@ -19,7 +19,7 @@
 - <b>Linear Regression</b>
   - [Statistical Analysis on WHO Life Expectancy Data](https://github.com/emmanikkila/who-life-expectancy)
 - <b>Logistic Regression</b>
-  - [Loan Eligibility Prediction](https://github.com/emmanikkila/Logistic-Regression/logistic_regression_loan.ipynb)
+  - [Loan Eligibility Prediction](https://github.com/emmanikkila/Logistic-Regression)
 
 <h2> Collaboration Projects:</h2>
 
