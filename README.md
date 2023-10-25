@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emma! <br/><a href="https://github.com/emmanikkila">Junior Data Analyst</a> and <a href="https://www.linkedin.com/in/emmanikkila">Peace and Security Professional</a></h1>
+<h1>Hi, I'm Emma! <br/><a href="https://github.com/emmanikkila">Data Analyst Student</a> and <a href="https://www.linkedin.com/in/emmanikkila">Peace and Security Professional</a></h1>
 
 <h2> Certificates: </h2>
 
@@ -8,7 +8,7 @@
 
 - <b>Python libraries: Pandas, Numpy, Seaborn</b>
   - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/)
-- <b>Power BI</b>
+- <b>Microsoft Power BI</b>
   - [Maven Market Business Dashboard](https://github.com/emmanikkila/)
   - [Adventure Works Business Dashboard](https://github.com/emmanikkila/)
 
@@ -21,8 +21,12 @@
 
 <h2> Collaboration Projects:</h2>
 
-- <b>Data Cleaning and Working with Customers</b>
+- <b>Public Microsoft Power BI Dashboard</b>
   - [SaferGlobe Arms Control Raport](https://github.com/emmanikkila/saferglobe-armscontrol)
+
+<h2> WebScrapping and API:</h2>
+- <b>API</b>
+  - [NASA API](https://github.com/emmanikkila/NASA-API)
 
 
 <h2> Connect with me:</h2>
