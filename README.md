@@ -2,7 +2,7 @@
 
 <h2> Certificates: </h2>
 
-- [Azure Fundamentals](https://www.credly.com/badges/3a0ce5aa-5a9c-43fe-8048-a8f0652c6f31/public_url)
+- [AZ-900: Microsoft Azure Fundamentals](https://www.credly.com/badges/3a0ce5aa-5a9c-43fe-8048-a8f0652c6f31/public_url)
 
 <h2> Data Analysis and Visualization Projects:</h2>
 
