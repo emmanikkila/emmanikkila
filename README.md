@@ -18,6 +18,8 @@
   - [Estimating Factors Affecting Wine Quality](https://github.com/emmanikkila/wine-quality)
 - <b>Linear Regression</b>
   - [Statistical Analysis on WHO Life Expectancy Data](https://github.com/emmanikkila/who-life-expectancy)
+- <b>Logistic Regression</b>
+  - [Loan Eligibility Prediction](https://github.com/emmanikkila/loan-eligibility)
 
 <h2> Collaboration Projects:</h2>
 
