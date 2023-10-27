@@ -20,6 +20,8 @@
   - [Statistical Analysis on WHO Life Expectancy Data](https://github.com/emmanikkila/linear-regression)
 - <b>Logistic Regression</b>
   - [Loan Eligibility Prediction](https://github.com/emmanikkila/Logistic-Regression)
+- <b>Association Learning</b>
+  - [Basket Optimisation](https://github.com/emmanikkila/association-learning)  
 
 <h2> Collaboration Projects:</h2>
 
