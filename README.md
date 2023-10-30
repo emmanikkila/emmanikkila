@@ -21,7 +21,9 @@
 - <b>Logistic Regression</b>
   - [Loan Eligibility Prediction](https://github.com/emmanikkila/Logistic-Regression)
 - <b>Association Learning</b>
-  - [Basket Optimisation](https://github.com/emmanikkila/association-learning)  
+  - [Basket Optimisation](https://github.com/emmanikkila/association-learning)
+- <b>Recommendation Engine</b>
+  - [Anime Recommendation Engine](https://github.com/emmanikkila/recommendation-engine)
 
 <h2> Collaboration Projects:</h2>
 
