@@ -7,7 +7,7 @@
 <h2> Data Analysis and Visualization Projects:</h2>
 
 - <b>Python: Pandas, Numpy, Seaborn</b>
-  - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/titanic)
+  - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/titanic-fi)
 - <b>Microsoft Power BI</b>
   - [Maven Market Business Dashboard](https://github.com/emmanikkila/maven-market)
   - [Adventure Works Business Dashboard](https://github.com/emmanikkila/adventure-works)
