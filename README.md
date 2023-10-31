@@ -15,7 +15,7 @@
 <h2> Machine Learning Projects:</h2>
 
 - <b>Decision Tree</b>
-  - [Estimating Factors Affecting Wine Quality](https://github.com/emmanikkila/wine-quality)
+  - [Estimating Factors Affecting Wine Quality](https://github.com/emmanikkila/wine-quality-fi)
 - <b>Linear Regression</b>
   - [Statistical Analysis on WHO Life Expectancy Data](https://github.com/emmanikkila/linear-regression)
 - <b>Logistic Regression</b>
