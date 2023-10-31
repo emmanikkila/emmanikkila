@@ -28,7 +28,7 @@
 <h2> Collaboration Projects:</h2>
 
 - <b>Public Microsoft Power BI Dashboard</b>
-  - [SaferGlobe Arms Control Raport](https://github.com/emmanikkila/saferglobe-armscontrol)
+  - [SaferGlobe Arms Control Report](https://github.com/emmanikkila/saferglobe-armscontrol)
     
 <h2> WebScrapping and API:</h2>
 
