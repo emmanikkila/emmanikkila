@@ -24,6 +24,8 @@
   - [Basket Optimisation](https://github.com/emmanikkila/association-learning)
 - <b>Recommendation Engine</b>
   - [Anime Recommendation Engine](https://github.com/emmanikkila/recommendation-engine)
+- <b>Clustering</b>
+  - [Amazon Customer Segmentation Analysis](https://github.com/emmanikkila/amazon-clustering)
 
 <h2> Collaboration Projects:</h2>
 
