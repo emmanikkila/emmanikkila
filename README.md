@@ -1,16 +1,10 @@
 <h1>Hi, I'm Emma! <br/><a href="https://github.com/emmanikkila">Data Analyst Student</a> and <a href="https://www.linkedin.com/in/emmanikkila">Peace and Security Professional</a></h1>
 
+
 <h2> Certificates: </h2>
 
 - [AZ-900: Microsoft Azure Fundamentals](https://www.credly.com/badges/3a0ce5aa-5a9c-43fe-8048-a8f0652c6f31/public_url)
 
-<h2> Data Visualization Projects:</h2>
-
-- <b>Python: Pandas, Numpy, Seaborn</b>
-  - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/titanic-fi)
-- <b>Microsoft Power BI</b>
-  - [Maven Market Business Dashboard](https://github.com/emmanikkila/maven-market)
-  - [Adventure Works Business Dashboard](https://github.com/emmanikkila/adventure-works)
 
 <h2> Machine Learning Projects:</h2>
 
@@ -27,10 +21,20 @@
 - <b>Clustering</b>
   - [Amazon Customer Segmentation Analysis](https://github.com/emmanikkila/amazon-clustering)
 
+
+<h2> Data Visualization Projects:</h2>
+
+- <b>Python: Pandas, Numpy, Seaborn</b>
+  - [Analyzing the Titanic Dataset](https://github.com/emmanikkila/titanic-fi)
+- <b>Microsoft Power BI</b>
+  - [Adventure Works Business Dashboard](https://github.com/emmanikkila/adventure-works) 
+
+
 <h2> Collaboration Projects:</h2>
 
 - <b>Public Microsoft Power BI Dashboard</b>
   - [SaferGlobe Arms Control Report](https://github.com/emmanikkila/saferglobe-armscontrol)
+
     
 <h2> WebScrapping and API:</h2>
 
