@@ -9,6 +9,8 @@
 
 <h2> Machine Learning Projects:</h2>
 
+- <b>CNN Convolutional Neural Network</b>
+  - [MNIST Digit Recognizer - TensorFlow](https://github.com/emmanikkila/digit-recognizer)
 - <b>Decision Tree</b>
   - [Estimating Factors Affecting Wine Quality](https://github.com/emmanikkila/wine-quality-fi)
 - <b>Linear Regression</b>
