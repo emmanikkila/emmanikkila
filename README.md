@@ -5,6 +5,7 @@
 
 - [AZ-900: Microsoft Azure Fundamentals](https://www.credly.com/badges/3a0ce5aa-5a9c-43fe-8048-a8f0652c6f31/public_url)
 - [DP-900: Microsoft Azure Data Fundamentals](https://www.credly.com/badges/ffbc9ae4-a8b7-4555-9177-e1b1e022bc64/public_url)
+- [AI-900: Microsoft Azure AI Fundamentals](https://www.credly.com/badges/f516cd85-ba83-4670-9a9a-4f3751f6c665/public_url)
 
 
 <h2> Machine Learning Projects:</h2>
