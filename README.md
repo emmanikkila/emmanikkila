@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emma! <br/><a href="https://github.com/emmanikkila">Data Analyst Student</a> and <a href="https://www.linkedin.com/in/emmanikkila">Peace and Security Professional</a></h1>
+<h1>Hi, I'm Emma! <br/><a href="https://fi.linkedin.com/in/emmanikkila">Junior Data Analyst</a> always looking for new challenges and projects to collaborate on!</h1>
 
 
 <h2> Certificates: </h2>
