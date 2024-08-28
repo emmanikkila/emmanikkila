@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emma! <br/><a href="https://fi.linkedin.com/in/emmanikkila">Junior Data Analyst</a> always looking for new challenges and projects to collaborate on!</h1>
+<h1>Hi, I'm Emma! <br/><a href="https://fi.linkedin.com/in/emmanikkila">Data Analyst</a> always looking for new challenges and projects to collaborate on!</h1>
 
 
 <h2> Certificates: </h2>
